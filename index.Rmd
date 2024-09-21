@@ -16,10 +16,10 @@ output: html_document
 
 # Content
 
-[Basic coding (R programming)](./src/page/R_tutorial.html)
+[Basic coding (R programming)](src/page/R_tutorial.html)
 
-[Data Pre-processing](./src/page/nmr_data_preprocessing.html)
+[Data Pre-processing](src/page/nmr_data_preprocessing.html)
 
-[Multivariate statistical Analysis](./src/page/multivariate_analysis.html)
+[Multivariate statistical Analysis](src/page/multivariate_analysis.html)
 
-[Metabolite Identification](./src/page/met_id.html)
+[Metabolite Identification](src/page/met_id.html)
